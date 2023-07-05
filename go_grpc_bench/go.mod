@@ -3,9 +3,6 @@ module example
 go 1.15
 
 require (
-	github.com/golang/mock v1.1.1
-	github.com/golang/protobuf v1.4.2
-	golang.org/x/oauth2 v0.0.0-20180821212333-d2e6202438be
-	google.golang.org/genproto v0.0.0-20200624020401-64a14ca9d1ad
-	google.golang.org/grpc v1.29.1
+	google.golang.org/grpc v1.54.0
+	google.golang.org/grpc/examples v0.0.0-20230705174746-11feb0a9afd8
 )
